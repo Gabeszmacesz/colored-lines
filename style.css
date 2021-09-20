@@ -1,0 +1,47 @@
+.elem {
+    display: flex;
+    width: 500px;
+    padding: 15px;
+    padding-left: 25px;
+    margin: 10px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+
+}
+
+.elem1 {
+    background-color: rgb(255, 228, 196, 0.5);
+    color: rgb(109, 56, 56);
+}
+
+.elem2 {
+    background-color: rgb(255, 0, 0, 0.5);
+}
+
+.elem3 {
+    background-color: rgb(144, 238, 144, 0.5);
+}
+
+.elem4 {
+    background-color: rgb(173, 216, 230, 0.5);
+}
+.elem5 {
+    background-color: rgb(128, 128, 128, 0.5);
+}
+.elem6 {
+    background-color: white;
+}
+
+article {
+    display: grid;
+    justify-items: center;
+
+}
+.button {
+    position: relative;
+    left: 80px;
+}
+.button2 {
+    position: relative;
+    left: 50px;
+}
